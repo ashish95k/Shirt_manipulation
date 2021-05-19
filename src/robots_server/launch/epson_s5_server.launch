@@ -1,5 +1,0 @@
-<launch>
-
-    <node name="Epson_Motion_Comm" pkg="robots_server" type="epson_ros_node.py"/>
-    
-</launch>
